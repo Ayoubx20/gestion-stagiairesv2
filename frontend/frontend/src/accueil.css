@@ -1,0 +1,65 @@
+/* Navbar */
+.navbar {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+
+  
+  /* Main Content */
+ 
+  
+  /* .display-4 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  } */
+  
+  .lead {
+    font-size: 1.25rem;
+  }
+  
+  .row {
+    margin-top: 30px;
+  }
+  
+  .col-md-6 {
+    padding: 0 15px;
+  }
+  
+  h2 {
+    font-size: 1.75rem;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Optional: Add hover effect to list items */
+  ul li:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  /* Background color */
+
+  
+  /* Text color */
+  .container h1,
+  .container p,
+  .container h2,
+  .container ul li {
+    color: #303027; /* Bootstrap default text color */
+  }
+  
+  
+  /* Optional: Navbar link hover color */
+  .navbar a:hover {
+    color: #000000; /* Light color on hover */
+  }
+  

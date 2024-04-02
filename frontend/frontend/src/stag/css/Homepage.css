@@ -1,0 +1,16 @@
+/* Homepage.css */
+.homepage-content {
+    opacity: 0.5;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  
+  .homepage-content.active {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .nav-link:hover {
+    color: #18212b; /* Change link color on hover */
+  }
+  
